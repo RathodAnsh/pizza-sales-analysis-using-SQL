@@ -19,3 +19,7 @@ This project focuses on analyzing pizza sales data using **SQL** to uncover key 
 
 ## ✅ Conclusion  
 This project provided hands-on experience in using SQL for real-world data analysis. It improved my ability to extract meaningful business insights from raw sales data and laid a strong foundation for making data- driven decisions.
+
+## Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anshrathod01/).
